@@ -1,0 +1,70 @@
+/* Container holding the image and the text */
+
+body {
+  font-family: Helvetica, Georgia, "Times New Roman", serif;
+}
+
+.container {
+  position: relative;
+  max-width: 960px;
+  margin: auto;
+  top: 20px;
+}
+
+.home_img{
+  position: relative;
+  top: 0;
+  width: 50%;
+  height: 50%;
+}
+
+.nav-title {
+  position: absolute;
+  top: 240px;
+  left: 320px;
+  padding: 2px 2px;
+  background-color: transparent;
+  color: #4c00ff;
+}
+
+/* Center text */
+.navigation {
+  position: absolute;
+  top: 300px;
+  left: 310px;
+  padding-right: 20px;
+  background-color: transparent;
+  border: #222;
+  border-width: 2pt;
+}
+
+/* add */
+ul {
+  list-style-type: none;
+}
+
+li {
+  margin-left: 0;
+  margin-bottom: 20px;
+}
+
+h1 {
+  font-size: 42px;
+  letter-spacing: 0.02em;
+  line-height: 45px;
+  font-weight: 700;
+}
+
+a {
+  text-decoration: none;
+  color: rgb(37, 23, 165);
+}
+
+a:hover { color: rgb(228, 11, 11); }
+
+.thbnail {
+  width: 30px;
+  height: auto;
+  float: left;
+  margin-right: 1em;
+}

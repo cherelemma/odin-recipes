@@ -6,6 +6,17 @@ More specifically able;
 - demonstrate the HTML Elements and Tags
 - working with text, Lists, Links and Images
 
-### Project description
+### Project Instructions
 - [Project: Recipes](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/recipes)
+
+### About the Project
+
+This Recipe Project consist of the main page (HomePage) which link to 3 different recipe pages. Each Recipe pages has the following elements 
+- A main Recipe Heading followed by an Image of the finish recipe. 
+- Finished Recipe Image - located under the main heading
+- "Description" Heading - under which a paragraph or two pragraph describe about the recipe. 
+- "Ingredients" heading - under which the required ingredients are listed inside an unordered list. 
+- "Steps" heading - under which the steps of preparation are listed in an ordered list under 
+
+### Live Demo
 - [Try the Website here](https://cherelemma.github.io/odin-recipes)

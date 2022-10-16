@@ -20,3 +20,6 @@ This Recipe Project consist of the main page (HomePage) which link to 3 differen
 
 ### Live Demo
 - [Try the Website here](https://cherelemma.github.io/odin-recipes)
+
+### Source Code
+- [Click here](https://github.com/cherelemma/odin-recipes)

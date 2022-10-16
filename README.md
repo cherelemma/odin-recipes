@@ -8,4 +8,4 @@ More specifically able;
 
 ### Project description
 - [Project: Recipes](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/recipes)
-- [Try the Website here] ()
+- [Try the Website here] (https://cherelemma.github.io/odin-recipes/)
